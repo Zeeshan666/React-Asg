@@ -7,15 +7,15 @@ The project utilizes Tailwind CSS for styling and Axios for data fetching.
 
 ## Installation
 
-1. Clone the repository:
-   git clone https://github.com/your-username/react-article-viewer.git
+1. Clone the repository: .\
+   git clone https://github.com/Zeeshan666/React-Asg.git  .\
    cd  REACT_ASG_
 
-2. Install the dependencies:
+2. Install the dependencies: .\
    npm install
 
 
-3. Components
+3. Components Overview
 
   Dropdown
    A dropdown component to select the time period for fetching the most viewed articles.
